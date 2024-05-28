@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoTechApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channe">channe</string>
+    <string name="parameter_text">%s</string>
+    <string name="web_client_id">107421999820-v65vr2n2hkd2of5lfovnvn9md2ouvg17.apps.googleusercontent.com</string>
+    <string name="android_client_id">107421999820-6ub331gju3nbk4048r2t3i18otm9ra5r.apps.googleusercontent.com</string>
+    <string name="title_logout">Bạn có muốn đăng xuất khỏi ứng dụng ?</string>
+    <string name="navigation_open">navigation_open</string>
+    <string name="navigation_close">navigation_close</string>
+
+</resources>
